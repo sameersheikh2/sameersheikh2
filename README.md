@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sameer Sheikh
 
-### A passionate Web Developer
+### A passionate Web Developer from India 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameersheikh2&label=Profile%20views&color=0e75b6&style=flat" alt="sameersheikh2" /> </p>
 
