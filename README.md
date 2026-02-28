@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameersheikh2" alt="sameersheikh2" /></a> </p>
 
-- 🔭 I'm currently working on **Moviepalace**
+- 🔭 I'm currently working on **DevHubIO(https://github.com/sameersheikh2/Job-board)**
 
 - 🌱 I'm currently learning **Nodejs & shell**
 
-- 🤝 I'm looking for help with **learning system design **
+- 🤝 I'm looking for help with **learning system design**
 
 - 💬 Ask me about **React, Node.js and web development**
 
